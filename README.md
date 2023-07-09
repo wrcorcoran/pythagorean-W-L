@@ -23,13 +23,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Recalculating the common MLB record estimation statistic. Best found x is 1.8391 rounded to four digits. The current MLB stat is 1.83.
+Equation is: (teams runs scored ^ x) / (team runs scored ^ x + team runs allowed ^ x)
 
 <!-- CONTACT -->
 ## Contact
 
 Will Corcoran - wcorcoran@ucsb.edu
 
-Project Link: [[https://github.com/wrcorcoran/FINANCIAL-AGGREGATION](https://github.com/wrcorcoran/FINANCIAL-AGGREGATION)](https://github.com/wrcorcoran/pythagorean-W-L)
+Project Link: [https://github.com/wrcorcoran/FINANCIAL-AGGREGATION](https://github.com/wrcorcoran/FINANCIAL-AGGREGATION)(https://github.com/wrcorcoran/pythagorean-W-L)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
