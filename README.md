@@ -31,8 +31,6 @@ $` \text{\textbf{pyth}}(\text{team runs scored, team runs allowed, }x) = `$ $$\f
 
 Will Corcoran - wcorcoran@ucsb.edu
 
-Project Link: [https://github.com/wrcorcoran/FINANCIAL-AGGREGATION](https://github.com/wrcorcoran/FINANCIAL-AGGREGATION)(https://github.com/wrcorcoran/pythagorean-W-L)
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Sean Lahman, Kaggle](https://www.kaggle.com/datasets/seanlahman/the-history-of-baseball?resource=download)
