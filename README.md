@@ -22,8 +22,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Recalculating the common MLB record estimation statistic. Best found x is 1.8391 rounded to four digits. The current MLB stat is 1.83.
-Equation is: $\text{pyth}(\text{team runs scored, team runs allowed, }x) = $$$\frac{\text{teams runs scored}^{x}}{\text{team runs scored}^{x} + \text{team runs allowed}^{x}}$$
+Recalculating the common MLB record estimation statistic. Best found x is 1.8391 rounded to four digits. The current MLB stat is 1.83. 
+Equation is: \textbf{pyth} $(\text{team runs scored, team runs allowed, }x) = $ $$\frac{\text{teams runs scored}^{x}}{\text{team runs scored}^{x} + \text{team runs allowed}^{x}}$$
 
 <!-- CONTACT -->
 ## Contact
